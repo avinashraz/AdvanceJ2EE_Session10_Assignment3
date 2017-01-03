@@ -1,0 +1,26 @@
+1. What are the features of Database language?
+Ans:
+A database language may also incorporate features like:
+DBMS-specific Configuration and management of storage engine
+Computations to modification of query results by computations, like summing, counting, averaging, grouping, sorting and cross-referencing Constraint enforcement Application Programming Interface.
+
+2. What do database languages do?
+Ans:
+Database languages are used for read, update and store data in a database. 
+
+3. Define database model.
+Ans:
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized, and manipulated. The most popular example of a database model is the relational model, which uses a table-based format.
+
+4. What is SQL?
+Ans:
+SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
+
+5. Enlist the various relationships of database.
+Ans:
+There are four relationships in database.
+
+- One to One: One entity is associated with another entity. For Ex: Each employee is associated with one department
+- One to Many: One entity is associated with many other entities. For Ex: A company is associated with all working employees in one branch/office/country.
+- Many to One: Many entities are associated with only one entity. For Ex: Many employees are associated with one project.
+- Many to Many: Many entities are associated with many other entities. For Ex: In a company many employees are associated with multiple projects(completed/existing), and at the same time, projects are associated with multiple employees.
